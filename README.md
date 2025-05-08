@@ -1,7 +1,7 @@
 # Guía de Fútbol Argentino ⚽  
 
 **Integrantes:**  
-1. Ian ESpinillo  
+1. Ian Espinillo  
 2. Mateo Ovejero  
 3. Luciano Herrera  
 
