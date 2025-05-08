@@ -1,9 +1,9 @@
 # Guía de Fútbol Argentino ⚽  
 
 **Integrantes:**  
-1. [Nombre 1]  
-2. [Nombre 2]  
-3. [Nombre 3]  
+1. Ian ESpinillo  
+2. Mateo Ovejero  
+3. Luciano Herrera  
 
 ## Secciones:  
 1. [Historia del Fútbol Argentino](historia.md)  
