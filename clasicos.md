@@ -14,9 +14,11 @@
 - Dos equipos con historia en Avellaneda.  
 
 ## Otros Clásicos Importantes  
-1. ![San Lorenzo vs. Huracán. ](https://media.tycsports.com/files/2024/02/24/682185/huracan-san-lorenzo-barrios-sonora_1440x810_wmk.webp) 
-2. [Estudiantes de la plata vs Gimnasia de la plata ](https://www.clarin.com/2024/02/25/pssxP-mcr_2000x1500__1.jpg) 
-### Enlaces:  
+* #### San Lorenzo vs Huracan
+    ![San Lorenzo vs. Huracán.](https://media.tycsports.com/files/2024/02/24/682185/huracan-san-lorenzo-barrios-sonora_1440x810_wmk.webp) 
+* #### San Lorenzo vs Huracan
+    ![Estudiantes de la plata vs Gimnasia de la plata ](https://www.clarin.com/2024/02/25/pssxP-mcr_2000x1500__1.jpg) 
+### Enlaces:
 - [Historia del Superclásico](https://espn.com/superclasico)  }
 - [Goles de clásicos](https://youtube.com/clasicos-arg)
 
