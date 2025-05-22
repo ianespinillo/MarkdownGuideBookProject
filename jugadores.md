@@ -25,5 +25,8 @@
 - Goleador histórico de la Selección (años 90).  
 
 ### Enlaces útiles:  
-- [Estadísticas de Messi](https://www.transfermarkt.com.ar/lionel-messi/profil/spieler/28003)  
-- [Mejores goles de Maradona](https://www.youtube.com/watch?v=QN3Wv6Gkoic)
+- [Estadísticas de Messi](https://fbref.com/messi)  
+- [Mejores goles de Maradona](https://youtube.com/maradona-top)
+
+#
+Más jugadores en proximo
